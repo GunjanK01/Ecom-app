@@ -5,8 +5,7 @@ Shopee is an e-commerce app built with Flutter as a learning project to explore 
 
 Below are screenshots from the Shopee app, showcasing key features and the overall interface:
 
-
-| ![Screenshot_20241114_164242](https://github.com/user-attachments/assets/70d44af3-fd63-4dc3-bb26-ab40d8056e11) | ![Screenshot_20241114_164245](https://github.com/user-attachments/assets/f8ae1c38-b7fd-4b8f-af3f-5406d9fc3990) | ![Screenshot_20241114_164248](https://github.com/user-attachments/assets/33c03165-d2af-44e4-b2e8-aa347c4ae8be) | ![Screenshot_20241114_164256](https://github.com/user-attachments/assets/151a9207-b315-4d4b-8301-41a2df3a05d8) |
+| ![Screenshot_20241114_164242](https://github.com/user-attachments/assets/0f5e820f-dbf4-4c70-be9e-de1c0381d2e3) | ![Screenshot_20241114_164245](https://github.com/user-attachments/assets/c0183158-652a-4719-906a-b14a473c330d) | ![Screenshot_20241114_164248](https://github.com/user-attachments/assets/6d022191-045b-4d82-90df-b48e1dd8f202) | ![Screenshot_20241114_164256](https://github.com/user-attachments/assets/af238560-c30b-4efd-b7fb-55df8f7b2528)|
 |-----------------------------------------------|---------------------------------------|--------------------------------------------------|--------------------------------------------------|
 | **1. Splash Screen**                          | **2. Home Page**                      | **3. Home Page - View 2**                        | **4. Categories Page**                           |
 
